@@ -1,4 +1,4 @@
-# My PGP public key
+# PGP public key
 
       -----BEGIN PGP PUBLIC KEY BLOCK-----
       Comment: GPGTools - https://gpgtools.org
